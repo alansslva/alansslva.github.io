@@ -1,0 +1,16 @@
+About mename: Alan Santos
+description: PHP, Javascript, Linux e experiências de vida
+meta_description: "Um blog sobre curiosidades"
+
+markdown: kramdown
+highlighter: pygments
+logo: true
+paginate: 15
+baseurl: /
+domain_name: 'http://alan.sslva.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://alan.sslva.github.io'
+author:         'Alan Santos'
