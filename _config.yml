@@ -4,7 +4,7 @@ meta_description: "Um blog sobre curiosidades"
 
 markdown: kramdown
 highlighter: pygments
-logo: true
+logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://alan.sslva.github.io'
