@@ -1,6 +1,6 @@
 name: Alan Santos
 description: PHP, Javascript, Linux e experiências de vida
-meta_description: "Um blog sobre curiosidades"
+meta_description: "Um blog sobre curiosidades "
 
 markdown: kramdown
 highlighter: rouge
